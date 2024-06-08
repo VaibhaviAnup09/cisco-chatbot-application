@@ -1,4 +1,4 @@
-# Cisco Chatbot Application
+# Challenge Project - Cisco Chatbot Application
 Objective: Developed an AI chatbot for Cisco-related queries using OpenAI's GPT-3.5-turbo.
 
 Features:
